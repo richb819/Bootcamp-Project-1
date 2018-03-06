@@ -17,3 +17,11 @@ Department of Transportation (DOT) Dataset of On-Time Performance of Airlines
 
 ### APIs to consume
 OpenWeatherMap
+
+### Breakdown of Tasks
+
+1. Get Dataset
+2. Breakdown & Analyze Data Set
+3. Grab weather data for each row
+4. Check for Trends between weather and delays
+5. Make charts using MatPlotLib
