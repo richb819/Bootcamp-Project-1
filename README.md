@@ -7,10 +7,9 @@ Joe Barcus, Richard Burger, Vivian Plasencia, & Dylan Rossi
 We will be analyzing flight data from 2015 to attempt to find a trend between delays and weather patterns throughout the year.
 
 ### Research Questions to Answer:
-1. What Airlines get delayed the most
-2. What airports get delayed the most
-3. What type of weather causes the most Delays
-4. How much time does certain weather delay a flight
+1. What airports get delayed the most out of the top 10?
+2. What type of weather causes the most Delays?
+3. How much time does certain weather delay a flight?
 
 ### Datasets to be Used:
 Department of Transportation (DOT) Dataset of On-Time Performance of Airlines
